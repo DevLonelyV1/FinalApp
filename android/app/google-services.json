@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "563956168759",
+    "firebase_url": "https://bluemoonweathers-default-rtdb.firebaseio.com",
+    "project_id": "bluemoonweathers",
+    "storage_bucket": "bluemoonweathers.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:563956168759:android:4f415441414b4f4c1127b2",
+        "android_client_info": {
+          "package_name": "com.example.bluemoonweathers"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIjgbw6p8MHqkk305GKzW_Defb1DRj9l0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
